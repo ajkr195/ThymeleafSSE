@@ -1,2 +1,2 @@
 # ThymeleafSSE
-ThymeleafSSE
+Spring WebFlux ThymeleafSSE
